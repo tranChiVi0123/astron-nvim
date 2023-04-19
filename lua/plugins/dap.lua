@@ -13,6 +13,9 @@ return {
       opts = { floating = { border = "rounded" } },
       config = require "plugins.configs.nvim-dap-ui",
     },
+    {
+      "leoluz/nvim-dap-go"
+    },
   },
   event = "User AstroFile",
 }
