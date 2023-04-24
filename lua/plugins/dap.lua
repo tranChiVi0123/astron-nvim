@@ -16,6 +16,9 @@ return {
     {
       "leoluz/nvim-dap-go"
     },
+    {
+      "suketa/nvim-dap-ruby"
+    },
   },
   event = "User AstroFile",
 }
